@@ -7,7 +7,7 @@
 
   <remote  name="fork"
            fetch="https://github.com"
-           revision="lineage-23.0" />
+           revision="lineage-23.1" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
