@@ -13,7 +13,6 @@
     <project path="device/lineage/sepolicy" name="heya-silly-uwu/android_device_lineage_sepolicy" remote="fork" />
     <project path="external/vanadium" name="GrapheneOS/platform_external_vanadium" remote="gitlab" revision="16" clone-depth="1" />
     <project path="frameworks/base" name="heya-silly-uwu/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
-    <project path="frameworks/native" name="heya-silly-uwu/lineage_frameworks_native" groups="pdk" remote="fork" />
     <project path="packages/apps/Launcher3" name="heya-silly-uwu/lineage_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="fork" />
     <project path="packages/apps/Settings" name="heya-silly-uwu/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
     <project path="packages/modules/Connectivity" name="heya-silly-uwu/lineage_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="fork" />
