@@ -15,8 +15,6 @@
     <project path="frameworks/base" name="heya-silly-uwu/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
     <project path="packages/apps/Launcher3" name="heya-silly-uwu/lineage_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="fork" />
     <project path="packages/apps/Settings" name="heya-silly-uwu/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
-    <project path="packages/modules/Connectivity" name="heya-silly-uwu/lineage_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="fork" />
-    <project path="system/bpf" name="heya-silly-uwu/lineage_system_bpf" groups="pdk" remote="fork" />
     <project path="system/logging" name="heya-silly-uwu/lineage_system_logging" groups="pdk" remote="fork" />
     <project path="system/sepolicy" name="heya-silly-uwu/lineage_system_sepolicy" groups="pdk" remote="fork" />
     <project path="vendor/lineage" name="heya-silly-uwu/android_vendor_lineage" remote="fork" />
