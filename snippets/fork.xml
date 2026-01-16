@@ -10,7 +10,7 @@
     </project>
 
     <project path="bootable/recovery" name="heya-silly-uwu/lineage_bootable_recovery" groups="pdk" remote="fork" />
-    <project path="external/google-fonts/google-sans" name="heya-silly-uwu/android_external_google-fonts_google-sans" remote="fork" />
+    <project path="external/google-fonts/google-sans" name="heya-silly-uwu/android_external_google-fonts_google-sans" remote="fork" revision="lineage-23.0" />
     <project path="device/lineage/sepolicy" name="heya-silly-uwu/android_device_lineage_sepolicy" remote="fork" />
     <project path="external/vanadium" name="GrapheneOS/platform_external_vanadium" remote="gitlab" revision="16" clone-depth="1" />
     <project path="frameworks/base" name="heya-silly-uwu/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
