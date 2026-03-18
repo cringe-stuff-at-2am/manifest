@@ -12,6 +12,7 @@
     <project path="bootable/recovery" name="cringe-stuff-at-2am/lineage_bootable_recovery" groups="pdk" remote="fork" />
     <project path="device/lineage/sepolicy" name="cringe-stuff-at-2am/android_device_lineage_sepolicy" remote="fork" />
     <project path="external/google-fonts/google-sans" name="cringe-stuff-at-2am/android_external_google-fonts_google-sans" remote="fork" revision="lineage-23.0" />
+    <project path="external/google-fonts/google-sans-flex" name="cringe-stuff-at-2am/android_external_google-fonts_google-sans-flex" remote="fork" revision="lineage-23.0" />
     <project path="frameworks/base" name="cringe-stuff-at-2am/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
     <project path="packages/apps/Launcher3" name="cringe-stuff-at-2am/lineage_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="fork" />
     <project path="packages/apps/Settings" name="cringe-stuff-at-2am/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
