@@ -13,6 +13,7 @@
     <project path="device/lineage/sepolicy" name="cringe-stuff-at-2am/android_device_lineage_sepolicy" remote="fork" />
     <project path="external/jemalloc_new" name="cringe-stuff-at-2am/android_external_jemalloc_new" groups="pdk" remote="fork" />
     <project path="frameworks/base" name="cringe-stuff-at-2am/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
+    <project path="frameworks/native" name="cringe-stuff-at-2am/lineage_frameworks_native" groups="pdk" remote="fork" />
     <project path="packages/apps/Launcher3" name="cringe-stuff-at-2am/lineage_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="fork" />
     <project path="packages/apps/Settings" name="cringe-stuff-at-2am/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
     <project path="packages/overlays/Lineage" name="cringe-stuff-at-2am/android_packages_overlays_Lineage" remote="fork" />
