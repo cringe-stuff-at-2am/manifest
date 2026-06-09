@@ -8,6 +8,10 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote  name="fork"
+           fetch="https://github.com"
+           revision="lineage-21.0-uq1a" />
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
@@ -1087,4 +1091,5 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/los21-pre-qpr2.xml" />
+  <include name="snippets/fork.xml" />
 </manifest>
