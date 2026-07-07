@@ -6,6 +6,7 @@
     <project path="frameworks/native" name="cringe-stuff-at-2am/lineage_frameworks_native" groups="pdk" remote="fork" />
     <project path="packages/apps/Trebuchet" name="cringe-stuff-at-2am/lineage_packages_apps_Trebuchet" groups="pdk-fs" remote="fork" />
     <project path="packages/apps/Settings" name="cringe-stuff-at-2am/lineage_packages_apps_Settings" groups="pdk-fs" remote="fork" />
+    <project name="cringe-stuff-at-2am/lineage_system_core" path="system/core" groups="pdk" remote="fork" />
     <project path="system/sepolicy" name="cringe-stuff-at-2am/lineage_system_sepolicy" groups="pdk" remote="fork" />
     <project path="vendor/lineage" name="cringe-stuff-at-2am/android_vendor_lineage" remote="fork" />
 </manifest>
