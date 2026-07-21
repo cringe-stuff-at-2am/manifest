@@ -18,6 +18,7 @@
     <project path="packages/apps/Settings" name="cringe-stuff-at-2am/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
     <project path="packages/overlays/Lineage" name="cringe-stuff-at-2am/android_packages_overlays_Lineage" remote="fork" />
     <project path="system/memory/libmeminfo" name="PixelOS-AOSP/android_system_memory_libmeminfo" groups="pdk" remote="fork" revision="sixteen-qpr2" />
+    <project path="system/core" name="cringe-stuff-at-2am/lineage_system_core" groups="pdk" remote="fork"  />
     <project path="system/logging" name="cringe-stuff-at-2am/lineage_system_logging" groups="pdk" remote="fork" />
     <project path="system/sepolicy" name="cringe-stuff-at-2am/lineage_system_sepolicy" groups="pdk" remote="fork" />
     <project path="vendor/lineage" name="cringe-stuff-at-2am/android_vendor_lineage" remote="fork" />
