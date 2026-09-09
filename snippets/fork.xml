@@ -11,6 +11,7 @@
 
     <project path="bootable/recovery" name="cringe-stuff-at-2am/lineage_bootable_recovery" groups="pdk" remote="fork" />
     <project path="device/lineage/sepolicy" name="cringe-stuff-at-2am/android_device_lineage_sepolicy" remote="fork" />
+    <project path="external/google-fonts/google-sans" name="cringe-stuff-at-2am/android_external_google-fonts_google-sans" remote="fork" />
     <project path="external/jemalloc_new" name="cringe-stuff-at-2am/android_external_jemalloc_new" groups="pdk" remote="fork" />
     <project path="frameworks/base" name="cringe-stuff-at-2am/lineage_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="fork" />
     <project path="frameworks/native" name="cringe-stuff-at-2am/lineage_frameworks_native" groups="pdk" remote="fork" />
