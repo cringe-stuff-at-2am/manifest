@@ -26,3 +26,16 @@ m bacon
 . build/envsetup.sh
 brunch DEVICE user
 ```
+
+Credits (for some commits where I cherry-picked from)
+-------
+- crDroid
+- LOSModified
+- GrapheneOS
+- Halcyon Project
+- uwuAOSP
+- AxionOS
+- PixelOS
+- YAAP
+- Yaoyoro Project
+- etc.
