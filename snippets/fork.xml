@@ -17,6 +17,7 @@
     <project path="packages/apps/Launcher3" name="cringe-stuff-at-2am/lineage_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="fork" />
     <project path="packages/apps/Settings" name="cringe-stuff-at-2am/lineage_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="fork" />
     <project path="packages/apps/ThemePicker" name="cringe-stuff-at-2am/android_packages_apps_ThemePicker" groups="pdk-fs,sysui-studio" remote="fork" />
+    <project path="packages/apps/WallpaperPicker2" name="cringe-stuff-at-2am/android_packages_apps_WallpaperPicker2" groups="pdk-fs,sysui-studio" remote="fork" />
     <project path="packages/overlays/Lineage" name="cringe-stuff-at-2am/android_packages_overlays_Lineage" remote="fork" />
     <project path="system/fs/fs_mgr" name="crdroidandroid/android_system_fs_fs_mgr" groups="pdk" remote="fork" revision="17.0" />
     <project path="system/memory/libmeminfo" name="crdroidandroid/android_system_memory_libmeminfo" groups="pdk" remote="fork" revision="17.0" />
