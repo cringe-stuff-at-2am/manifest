@@ -8,6 +8,7 @@
         <linkfile src="target" dest="build/target" />
         <linkfile src="tools" dest="build/tools" />
     </project>
+    <project path="build/soong" name="cringe-stuff-at-2am/android_build_soong" groups="pdk,tradefed,sysui-studio" remote="fork" />
 
     <project path="bootable/recovery" name="cringe-stuff-at-2am/lineage_bootable_recovery" groups="pdk" remote="fork" />
     <project path="device/lineage/sepolicy" name="cringe-stuff-at-2am/android_device_lineage_sepolicy" remote="fork" />
