@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remote  name="fork"
+             fetch="https://github.com"
+             revision="lineage-24.0" />
+
     <project path="build/make" name="cringe-stuff-at-2am/lineage_build" groups="pdk,sysui-studio" remote="fork">
         <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
         <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />

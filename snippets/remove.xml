@@ -1,0 +1,20 @@
+<manifest>
+    <remove-project name="platform/system/memory/libmeminfo" />
+    <remove-project name="LineageOS/android_build" />
+    <remove-project name="LineageOS/android_build_soong" />
+    <remove-project name="LineageOS/android_bootable_recovery" />
+    <remove-project name="LineageOS/android_frameworks_base" />
+    <remove-project name="LineageOS/android_frameworks_native" />
+    <remove-project name="LineageOS/android_frameworks_opt_telephony" />
+    <remove-project name="LineageOS/android_device_lineage_sepolicy" />
+    <remove-project name="LineageOS/android_packages_apps_Launcher3" />
+    <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
+    <remove-project name="LineageOS/android_packages_apps_WallpaperPicker2" />
+    <remove-project name="LineageOS/android_packages_overlays_Lineage" />
+    <remove-project name="LineageOS/android_system_core" />
+    <remove-project name="LineageOS/android_system_fs_fs_mgr" />
+    <remove-project name="LineageOS/android_system_logging" />
+    <remove-project name="LineageOS/android_system_sepolicy" />
+    <remove-project name="LineageOS/android_vendor_lineage" />
+</manifest>
